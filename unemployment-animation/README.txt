@@ -1,0 +1,4 @@
+ggplot2 Unemployment Claims from February-April 2020 Data Visualization
+@author Saad Moro
+
+This repository contains R code to create an animated map of the United States, depicting the per-capita unemployment claims by state in February to April of 2020, during the unemployment crisis which hit the nation at the start of the COVID-19 pandemic. The required R packages are listed in the R file, and the required data is stored in this folder as well. Running the R code line by line will save an animated gif of unemployment claims per day by state. The unemployment data was taken from the U.S. Bureau of Labor Statistics.
